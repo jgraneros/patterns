@@ -1,4 +1,4 @@
-package statepattern;
+package comportamiento.statepattern;
 
 public class Utils {
 

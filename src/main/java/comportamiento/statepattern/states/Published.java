@@ -1,8 +1,8 @@
-package statepattern.states;
+package comportamiento.statepattern.states;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import statepattern.Document;
+import comportamiento.statepattern.Document;
 
 @Data
 @AllArgsConstructor

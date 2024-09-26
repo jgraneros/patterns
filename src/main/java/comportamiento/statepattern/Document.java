@@ -1,7 +1,7 @@
-package statepattern;
+package comportamiento.statepattern;
 
 import lombok.Data;
-import statepattern.states.State;
+import comportamiento.statepattern.states.State;
 
 @Data
 public class Document {

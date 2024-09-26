@@ -1,6 +1,6 @@
-package statepattern;
+package comportamiento.statepattern;
 
-import statepattern.states.Draft;
+import comportamiento.statepattern.states.Draft;
 
 public class Main {
 

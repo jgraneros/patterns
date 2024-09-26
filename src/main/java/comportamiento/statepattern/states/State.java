@@ -1,4 +1,4 @@
-package statepattern.states;
+package comportamiento.statepattern.states;
 
 public interface State {
     void render();
